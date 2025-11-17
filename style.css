@@ -62,3 +62,32 @@ main {
     font-size: 16px;
 }
 
+.booking-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 10px;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea {
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.booking-form button {
+    margin-top: 15px;
+    padding: 12px;
+    background: #444;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.booking-form button:hover {
+    background: #333;
+}
