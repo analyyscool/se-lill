@@ -1,1 +1,2 @@
-See on konfliktiharjutuse fail.
+See rida on tudeng 1 versioon.
+
